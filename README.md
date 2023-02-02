@@ -9,7 +9,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact about me :I have a lot of passion in video games and learning new things .
+- ⚡ Fun fact about me: ...
 
 
 </form>
