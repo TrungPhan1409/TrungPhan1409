@@ -3,11 +3,22 @@
 ### Hi there , I am Trung.
 
 - 🔭 I’m currently sturdying at  Southern Alberta Institute of Technology ( <a href="https://www.sait.ca">SAIT</a>).
-- 🌱 I’m currently learning Java, HTML, CSS, JavaScript,..
-- 👯 I’m looking to collaborate on any Project.
-- 🤔 I’m looking for help with Java
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+- 🌱 I’m currently learning : <br>
+  <img align="left" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img align="left" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img align="left" src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <br>
+- 📫 How to reach me: <br>
+   <a href="https://www.facebook.com/phan.thanhtrung.1409/">
+          <img src ="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/trung-phan-9a588b226/">
+    <img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+               </a>
+  </a>
+  <a href="discordapp.com/users/335068281188777986">
+    <img src ="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+               </a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact about me: ...
 
