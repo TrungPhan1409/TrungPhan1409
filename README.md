@@ -30,7 +30,7 @@
   <img  src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>           
 </p>
 <h3> Github Stats </h3>
-<p >
+<p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TrungPhan1409&theme=highcontrast&show_icons=true" width="47%" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungPhan1409&layout=compact" width="47%" />
 </p>
