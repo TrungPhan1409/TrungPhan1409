@@ -3,11 +3,6 @@
 ### Hi there , I am Trung.
 
 - 🔭 I’m currently sturdying at  Southern Alberta Institute of Technology ( <a href="https://www.sait.ca">SAIT</a>).
-- 🌱 I’m currently learning : <br>
-  <img align="left" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img align="left" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img align="left" src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <br>
 - 📫 How to reach me: <br>
    <a href="https://www.facebook.com/phan.thanhtrung.1409/">
           <img src ="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
@@ -25,8 +20,11 @@
 
 </form>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrungPhan1409&theme=highcontrast&show_icons=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungPhan1409&layout=compact" width="52%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TrungPhan1409&theme=highcontrast&show_icons=true" width="47%"/>
+  <img align="left" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img align="left" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img align="left" src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungPhan1409&layout=compact" width="52%"/>
 </p>
 <h2 align="center">My Repository</h2>
 <p align="center">
