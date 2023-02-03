@@ -31,8 +31,8 @@
 </p>
 <h3> Github Stats </h3>
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=TrungPhan1409&theme=highcontrast&show_icons=true" width="47%" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungPhan1409&layout=compact" width="47%" />
+<img  src="https://github-readme-stats.vercel.app/api?username=TrungPhan1409&theme=highcontrast&show_icons=true" width="39%" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungPhan1409&layout=compact" width="50%" />
 </p>
 <h3>My Repository</h3>
 <p align="center">
