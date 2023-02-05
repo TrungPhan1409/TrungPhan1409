@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <h2>Hi there, I am Trung</h2>
 <h3>About Me</h3>
 <p>
