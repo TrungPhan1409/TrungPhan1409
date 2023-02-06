@@ -31,5 +31,8 @@
 <p align="center">
 <a href="https://github.com/TrungPhan1409/Week3Lab_Calculators">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrungPhan1409&repo=Week3Lab_Calculators&theme=merko"/>
+<a href="https://github.com/TrungPhan1409/Week-4-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrungPhan1409&repo=Week-4-lab&theme=dark"/>
 </p>
+
 
