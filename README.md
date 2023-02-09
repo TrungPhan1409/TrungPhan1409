@@ -24,8 +24,8 @@
 </p>
 <h3> Github Stats </h3>
 <p align="center" >
-<img  src="https://github-readme-stats.vercel.app/api?username=TrungPhan1409&theme=highcontrast&show_icons=true" width="42%" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungPhan1409&layout=compact" width="47%" />
+<img  src="https://github-readme-stats.vercel.app/api?username=TrungPhan1409&theme=highcontrast&show_icons=true"  height="150px" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungPhan1409&layout=compact"  height="150px"/>
 </p>
 <h3>My Repository</h3>
 <p align="center">
