@@ -5,10 +5,10 @@
 </p>
 <h3>Contact Me</h3>
 <p>
- <a href="https://www.facebook.com/phan.thanhtrung.1409/">
+ <a href="https://www.facebook.com/phan.thanhtrung.1409/" target="_blank">
           <img src ="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/trung-phan-9a588b226/">
+  <a href="https://www.linkedin.com/in/trung-phan-9a588b226/" target="_blank">
     <img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
                </a>
   </a>
