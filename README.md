@@ -22,7 +22,7 @@
 </p>
 <h3> Github Stats </h3>
 <p align="center" >
-<img  src="https://github-readme-stats.vercel.app/api?username=TrungPhan1409&theme=highcontrast&show_icons=true"  height="150px" />
+<img  src="https://github-readme-stats.vercel.app/api?username=TrungPhan1409&theme=nightowl&show_icons=true"  height="150px" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrungPhan1409&layout=compact&theme=dark"  height="150px"/>
 </p>
 <h3>My Repository</h3>
@@ -30,11 +30,11 @@
 <a href="https://github.com/TrungPhan1409/Week3Lab_Calculators">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrungPhan1409&repo=Week3Lab_Calculators&theme=merko"/>
 <a href="https://github.com/TrungPhan1409/Week4_Lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrungPhan1409&repo=Week4_Lab&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrungPhan1409&repo=Week4_Lab&theme=radical"/>
 <a href="https://github.com/TrungPhan1409/Week5_lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrungPhan1409&repo=Week5_lab&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrungPhan1409&repo=Week5_lab&theme=tokyonight"/>
 <a href="https://github.com/TrungPhan1409/MusicBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrungPhan1409&repo=MusicBot&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrungPhan1409&repo=MusicBot&theme=synthwave"/>
 </p>
 
 
